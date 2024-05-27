@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lavanyaa A</h1>
 <h3 align="center">A versatile developer from India</h3>
-![Dark Teal Geometric Technology LinkedIn Banner](https://github.com/LavanyaaCSE/LavanyaaCSE/assets/142470176/34d690c6-aa87-4151-835b-74d29eaea7bb)
+![Dark Teal Geometric Technology LinkedIn Banner](https://github.com/LavanyaaCSE/LavanyaaCSE/assets/142470176/d8ff6842-d562-471f-b250-253597f523e6)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lavanyaacse&label=Profile%20views&color=0e75b6&style=flat" alt="lavanyaacse" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lavanyaacse" alt="lavanyaacse" /></a> </p>
 
