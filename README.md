@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 
-- 👨‍💻 All of my projects are available at [https://lavanyaacse.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://lavanyaacse.github.io/Portfolio/]
 
 - 💬 Ask me about **MERN Stack, Data Science, Machine Learning, Graphic Design, UI/UX Designer**
 
