@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lavanyaacse" alt="lavanyaacse" /></a> </p>
 
-- 🔭 I’m currently working on **Aivirex Infotech Flutter Project**
+- 🔭 I’m currently working on **Multi-AI Agent Project**
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **ASP.NET**
 
 - 👯 I’m looking to collaborate on **MERN Stack projects**
 
